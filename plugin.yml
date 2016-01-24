@@ -1,0 +1,9 @@
+name: RegExpChat
+main: io.github.CMD_BLOCK.RegExpChat.Main
+author: CMD_BLOCK
+version: 1.0
+commands:
+  regexp:
+    description: 查看RegExpChat插件帮助
+    usage: /regexp
+    aliases: [regexpchat]
